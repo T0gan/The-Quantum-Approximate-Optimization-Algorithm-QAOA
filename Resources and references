@@ -5,15 +5,10 @@ the algorithm, and others I used as a direct reference to create the documentati
 Here is the list:
 
 VQE explained, Michał Stęchły's blog:            https://www.mustythoughts.com/variational-quantum-eigensolver-explained
-
 QAOA explained, Michał Stęchły's blog:           https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained
-
 Solving COP using QAOA, Qiskit textbook:         https://qiskit.org/textbook/ch-applications/qaoa.html
-
 Maximum cut, Wikipedia                           https://en.wikipedia.org/wiki/Maximum_cut
-
 Graphs and QAOA, Jack Ceroni:                    https://lucaman99.github.io/new_blog/2020/mar16.html
-
 Introduction to Graph Theory, Richard J. Trudeau, 1976
 
 
