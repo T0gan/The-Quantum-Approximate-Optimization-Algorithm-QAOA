@@ -4,6 +4,7 @@ the algorithm, and others I used as a direct reference to create the documentati
 
 Here is the list:
 
+A QAOA, E. Farhi and J. Goldstone:               https://arxiv.org/pdf/1411.4028.pdf
 VQE explained, Michał Stęchły's blog:            https://www.mustythoughts.com/variational-quantum-eigensolver-explained
 QAOA explained, Michał Stęchły's blog:           https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained
 Solving COP using QAOA, Qiskit textbook:         https://qiskit.org/textbook/ch-applications/qaoa.html
