@@ -1,10 +1,10 @@
-# During the implementation of the algorithm, I used several helpful resources, in which I have learned the concepts and math behind 
-# the algorithm, and others I used as a direct reference to create the documentation sections in QAOA.py
+During the implementation of the algorithm, I used several helpful resources, in which I have learned the concepts and math behind 
+the algorithm, and others I used as a direct reference to create the documentation sections in QAOA.py
 
 
 Here is the list:
 
- VQE explained, Michał Stęchły's blog:           https://www.mustythoughts.com/variational-quantum-eigensolver-explained
+VQE explained, Michał Stęchły's blog:           https://www.mustythoughts.com/variational-quantum-eigensolver-explained
 
 QAOA explained, Michał Stęchły's blog:           https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained
 
